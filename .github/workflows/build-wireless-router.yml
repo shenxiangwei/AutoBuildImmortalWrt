@@ -604,7 +604,7 @@ jobs:
                   ;;
               cudy_tr3000-256mb-v1)
                   # 由于256MB版本tr3000 还没有出正式版24.10.3 故使用快照版本来构建
-                  tag=mediatek-filogic-24.10-SNAPSHOT
+                  tag=mediatek-filogic-24.10.3
                   ;;
               xiaomi_redmi-router-ax6s)
                   tag=mediatek-mt7622-openwrt-24.10.3
