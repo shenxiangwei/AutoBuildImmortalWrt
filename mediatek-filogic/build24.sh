@@ -55,7 +55,7 @@ PACKAGES="$PACKAGES luci-i18n-diskman-zh-cn"
 # PACKAGES="$PACKAGES luci-i18n-openvpn-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-appfilter-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
-PACKAGES="$PACKAGES luci-app-adblock"
+# PACKAGES="$PACKAGES luci-app-adblock"
 PACKAGES="$PACKAGES luci-app-airconnect"
 
 #24.10.0
